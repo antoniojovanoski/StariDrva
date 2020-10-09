@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "371087899510",
+    "firebase_url": "https://stari-drva-286915.firebaseio.com",
+    "project_id": "stari-drva-286915",
+    "storage_bucket": "stari-drva-286915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371087899510:android:b4bff4030ccabeb1c4d857",
+        "android_client_info": {
+          "package_name": "com.gsixacademy.android.staridrva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371087899510-4pf2n9tna8le918a9a651d8tk620couq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOHI50tr5GqsD9kin1ezsegnqjdId24Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371087899510-4pf2n9tna8le918a9a651d8tk620couq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
